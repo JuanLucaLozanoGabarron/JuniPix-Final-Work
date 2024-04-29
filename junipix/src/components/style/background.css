@@ -1,0 +1,8 @@
+.backImage {
+  margin-top: -100px;
+  z-index: 1;
+}
+
+.backImage img {
+  width: 400px;
+}
