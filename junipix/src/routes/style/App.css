@@ -1,0 +1,6 @@
+.firstInfo {
+  width: 500px;
+  background-color: blue;
+  z-index: 2;
+  position: fixed;
+}

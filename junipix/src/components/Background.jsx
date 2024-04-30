@@ -1,6 +1,6 @@
 import React from "react";
-import back from "./style/background.jpeg";
-import "./images/background.css";
+import back from "./images/background.jpeg";
+import "./style/background.css";
 
 export default function Background() {
   return (
