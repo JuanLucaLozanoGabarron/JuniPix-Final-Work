@@ -1,6 +1,47 @@
-.firstInfo {
-  width: 500px;
-  background-color: blue;
-  z-index: 2;
+.text {
+  width: 450px;
+  margin-top: 150px;
+  height: 550px;
   position: fixed;
+  left: 320px;
+  z-index: 2;
+}
+
+.collage {
+  width: 500px;
+  margin-top: 150px;
+  height: 550px;
+  background-color: blue;
+  position: fixed;
+  right: 170px;
+  z-index: 2;
+}
+
+.title {
+  font-family: Cinzel;
+  font-weight: 200;
+  margin-top: 100px;
+}
+
+.title h2 {
+  font-size: 55px;
+}
+.title h1 {
+  font-size: 95px;
+  margin-top: -50px;
+}
+
+.createYourArtWork {
+  width: 250px;
+  display: flex;
+  border-bottom: solid 1px;
+}
+
+.createYourArtWork input {
+  width: 100%;
+  border: 0px;
+  background-color: transparent;
+  color: black;
+  font-family: Poppins;
+  font-size: 11px;
 }

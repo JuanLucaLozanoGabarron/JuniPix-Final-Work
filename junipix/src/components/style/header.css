@@ -37,16 +37,16 @@
 .searchbar {
   width: 320px;
   display: flex;
+  border-bottom: solid 1px;
 }
 
 .searchbar input {
   width: 100%;
   border: 0px;
-  border-bottom: solid 1px;
   background-color: transparent;
   color: black;
   font-family: Poppins;
-  font-size: 12px;
+  font-size: 11px;
 }
 
 .login {
