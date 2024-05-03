@@ -10,7 +10,9 @@ export default function Header() {
         <p>JUNIPIX</p>
       </div>
       <div className="navigation">
+      <Link to="/">
         <p>Home</p>
+        </Link>
         <p>3D Gallery</p>
         <p>Likes</p>
       </div>
